@@ -1,0 +1,6 @@
+43278,Huynh Gia Toai,10,2,2000,true,true
+47822,Huynh Chau Phuong Nhi,25,5,1997,false,true
+16723,Ho Huu Trong,15,3,2000,true,false
+17652,Nguyen Hoan Tuan,24,12,1999,true,true
+91298,Hoang Phuong Thuy,12,9,1998,false,true
+16752,Toai Toai,23,6,1996,true,false
