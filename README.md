@@ -4,7 +4,7 @@ Code trong khoảng thời gian học Phương pháp lập trình hướng đố
 # Bài tập thực hành
 1.  Lab01: Circle, Fraction, Line, Rectangle, Student, Triangle - Get set cơ bản
 2.  Lab02: Line, Rectangle - Copy, tính toán hướng đối tượng
-3.  Lab03:  
+3.  Lab03:
     a.  Date: Getter, Setter, check ngày tháng hợp lệ, có phải năm nhuận hay không
     b.  Dynamic array: Push, print
 # Bài tập phụ - C++
