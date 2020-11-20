@@ -5,8 +5,8 @@ Code trong khoảng thời gian học Phương pháp lập trình hướng đố
 1.  Lab01: Circle, Fraction, Line, Rectangle, Student, Triangle - Get set cơ bản
 2.  Lab02: Line, Rectangle - Copy, tính toán hướng đối tượng
 3.  Lab03:
-    1.  Date: Getter, Setter, check ngày tháng hợp lệ, có phải năm nhuận hay không
-    2.  Dynamic array: Push, print
+	1.  Date: Getter, Setter, check ngày tháng hợp lệ, có phải năm nhuận hay không
+	2.  Dynamic array: Push, print
 	3.  Fraction: Getter, Setter, toán tử nhập xuất
 	4.  StudentV2: Copy
 	5.  StudentV3: Toán tử nhập xuất
