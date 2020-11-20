@@ -1,2 +1,2 @@
-# Year-2-HK-1-OOP
+# Phương pháp lập trình hướng đối tượng
 Code trong khoảng thời gian học Phương pháp lập trình hướng đối tượng
