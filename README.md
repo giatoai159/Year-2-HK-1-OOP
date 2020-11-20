@@ -7,8 +7,8 @@ Code trong khoảng thời gian học Phương pháp lập trình hướng đố
 3.  Lab03:  
    1.  Date: Getter, Setter, check ngày tháng hợp lệ, có phải năm nhuận hay không
 1. A numbered list  
-              a. A nested numbered list  
-              b. Which is numbered  
+a. A nested numbered list  
+b. Which is numbered  
           2. Which is numbered  
 # Bài tập phụ - C++
 1.  Đối tượng Date: In ngày/tháng/năm hiện tại
