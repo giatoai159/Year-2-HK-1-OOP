@@ -7,6 +7,10 @@ Code trong khoảng thời gian học Phương pháp lập trình hướng đố
 3.  Lab03:
     1.  Date: Getter, Setter, check ngày tháng hợp lệ, có phải năm nhuận hay không
     2.  Dynamic array: Push, print
+	3.  Fraction: Getter, Setter, toán tử nhập xuất
+	4.  StudentV2: Copy
+	5.  StudentV3: Toán tử nhập xuất
+	6.  Time: Getter, Setter, print
 # Bài tập phụ - C++
 1.  Đối tượng Date: In ngày/tháng/năm hiện tại
 2.  Đối tượng đơn thức: Khởi tạo, xóa, getter, setter, nhập xuất, toán tử nhập xuất, toán tử gán, tính giá trị với x cho trước, toán tử nhân, chia, *=, /=, toán tử so sánh
